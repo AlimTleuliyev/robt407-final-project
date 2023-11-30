@@ -13,7 +13,7 @@ efficientnet_b1, 0.97103
 efficientnet_b2, 0.97732
 efficientnet_b3, 0.96977
 efficientnet_b4, 0.96851
-esnet18, 0.96599
+resnet18, 0.96599
 resnet34, 0.95969
 resnet50, 0.96851
 resnet101, 0.96347
